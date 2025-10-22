@@ -1,0 +1,16 @@
+# Archivos de respaldo y temporales de KiCad
+*.kicad_prl
+*.kicad_pro
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-bak.kicad_pcb
+_autosave-*
+fp-info-cache
+*.kicad_pcb-lock
+*.kicad_sch-lock
+
+# Archivos de fabricación (Gerbers, etc.)
+*.gbr
+*.drl
+*.zip
+*.pdf
